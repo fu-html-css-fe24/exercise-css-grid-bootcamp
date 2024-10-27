@@ -109,3 +109,7 @@ Tekniker du ska använda dig av är:
 ![calendar-mockup](https://user-images.githubusercontent.com/54267140/93496235-43783b00-f90f-11ea-9367-ec6e6cdaa90f.png)
 
 ## 05. Poster Shop - veckans Code Review-uppgift
+
+Försök återskapa layouten i övningen genom att använda dig av CSS Grid. Ta sedan med dig resultatet (lyckat eller ej) till torsdagens Code Review för att jämföra med dina klarrkamrater, och förhoppningsvis skaffa dig lite nya intryck och insikter.
+
+Övningen [hittar du här](https://github.com/fu-html-css-fe24/exercise-css-poster-shop)
