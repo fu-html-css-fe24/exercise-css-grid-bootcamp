@@ -110,6 +110,6 @@ Tekniker du ska använda dig av är:
 
 ## 05. Poster Shop - veckans Code Review-uppgift
 
-Försök återskapa layouten i övningen genom att använda dig av CSS Grid. Ta sedan med dig resultatet (lyckat eller ej) till torsdagens Code Review för att jämföra med dina klarrkamrater, och förhoppningsvis skaffa dig lite nya intryck och insikter.
+Försök återskapa layouten i övningen genom att använda dig av CSS Grid. Ta sedan med dig resultatet (lyckat eller ej) till torsdagens Code Review för att jämföra med dina klasskamrater, och förhoppningsvis skaffa dig lite nya intryck och insikter.
 
 Övningen [hittar du här](https://github.com/fu-html-css-fe24/exercise-css-poster-shop)
