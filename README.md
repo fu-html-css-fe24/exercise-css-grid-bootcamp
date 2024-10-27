@@ -69,7 +69,7 @@ Förslag på html-struktur:
 | **B**   | flow       |
 | **C**   | grid areas |
 
-![screens](/01_golden-layout-D/screens.png)
+![screens](/01_golden-layout-A/screens.png)
 
 ## 02. Dynamic layout
 
@@ -82,7 +82,7 @@ De dynamiska ytorna visas med en _bakgrundsfärg_ i wireframen.
 | **A**   | flow       |
 | **B**   | grid areas |
 
-![screens](/02_dynamic-layout-C/screens.png)
+![screens](/02_dynamic-layout-A/screens.png)
 
 ## 03. Complex Dynamic layout
 
@@ -95,7 +95,7 @@ De dynamiska ytorna visas med en _bakgrundsfärg_ i wireframen.
 | **A**   | flow       |
 | **B**   | grid areas |
 
-![screens](/03_complex-dynamic-layout-C/screens.png)
+![screens](/03_complex-dynamic-layout-A/screens.png)
 
 ## 04. Static Calendar
 

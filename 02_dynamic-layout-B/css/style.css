@@ -10,19 +10,11 @@ body {
 
 .wrapper {
     margin: 2rem auto;
-    display: grid;
     max-width: 800px;
     width: 100%;
-    grid-template-columns: repeat(12, 1fr);
-    grid-template-rows: 3rem 16rem auto 12rem 12rem 12rem;
-    grid-template-areas: 
-    "nav nav nav nav nav nav nav nav nav nav nav nav"
-    "header header header header header header header header header header header header"
-    "main main main main main main main main sidebar sidebar sidebar sidebar"
-    "sect-a sect-a sect-a sect-a sect-b sect-b sect-b sect-b sect-c sect-c sect-c sect-c"
-    "sect-d sect-d sect-d sect-e sect-e sect-e sect-f sect-f sect-f sect-g sect-g sect-g"
-    "footer footer footer footer footer footer footer footer footer footer footer footer";
-    gap: .5rem;
+
+    /* HÄR KODAR DU UPP DIN GRID */
+    
 }
 
 .wrapper > * {
@@ -34,11 +26,13 @@ body {
 
 
 nav {
-    grid-area: nav;
+
+    
 }
 
 header {
-    grid-area: header;
+
+    
 }
 
 
@@ -61,17 +55,33 @@ main article {
 }
 
 aside {
-    grid-area: sidebar;
+
+    
 }
 
-.sect-a { grid-area: sect-a; }
-.sect-b { grid-area: sect-b; }
-.sect-c { grid-area: sect-c; }
-.sect-d { grid-area: sect-d; }
-.sect-e { grid-area: sect-e; }
-.sect-f { grid-area: sect-f; }
-.sect-g { grid-area: sect-g; }
+.sect-a {
+    
+}
+.sect-b {
+    
+}
+.sect-c {
+    
+}
+.sect-d {
+
+}
+.sect-e {
+
+}
+.sect-f {
+
+}
+.sect-g {
+
+}
 
 footer {
-    grid-area: footer;
+
+    
 }
